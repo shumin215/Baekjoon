@@ -1,2 +1,2 @@
 # CUDA
-This is for CUDA programming
+This is for Baekjoon Algorithm programming
