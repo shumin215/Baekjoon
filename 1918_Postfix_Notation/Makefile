@@ -13,7 +13,7 @@ TARGET = postfix				# binary file
 
 all : $(TARGET)
 
-$(TARGET) : $(OBJECTS) $(HEADERS)
+$(TARGET) : $(OBJECTS) 
 	$(CXX) $(CXXFLAGS) -o $@ $^
 
 clean :

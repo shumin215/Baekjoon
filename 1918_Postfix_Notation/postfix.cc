@@ -1,10 +1,4 @@
-#include <cstdio>
-#include <cstdlib>
-#include <stack>
-#include <string>
-#include <iostream>
 #include "postfix.h"
-using namespace std;
 
 Postfix::Postfix(string _str)
 {

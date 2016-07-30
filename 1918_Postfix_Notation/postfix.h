@@ -1,6 +1,14 @@
 #ifndef _POSTFIX_H_
 #define _POSTFIX_H_
 
+#include <cstdio>
+#include <cstdlib>
+#include <stack>
+#include <string>
+#include <iostream>
+
+using namespace std;
+
 class Postfix
 {
 public:
