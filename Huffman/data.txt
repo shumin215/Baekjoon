@@ -1,0 +1,57 @@
+Start Huffman Encoding
+ASCII code 10 ( 
+ ) : 32 
+ASCII code 32 (   ) : 428 
+ASCII code 33 ( ! ) : 3 
+ASCII code 34 ( " ) : 7 
+ASCII code 39 ( ' ) : 1 
+ASCII code 40 ( ( ) : 2 
+ASCII code 41 ( ) ) : 2 
+ASCII code 44 ( , ) : 29 
+ASCII code 45 ( - ) : 6 
+ASCII code 46 ( . ) : 7 
+ASCII code 50 ( 2 ) : 1 
+ASCII code 58 ( : ) : 5 
+ASCII code 59 ( ; ) : 2 
+ASCII code 63 ( ? ) : 1 
+ASCII code 65 ( A ) : 10 
+ASCII code 67 ( C ) : 1 
+ASCII code 68 ( D ) : 1 
+ASCII code 69 ( E ) : 4 
+ASCII code 70 ( F ) : 1 
+ASCII code 71 ( G ) : 1 
+ASCII code 73 ( I ) : 3 
+ASCII code 76 ( L ) : 2 
+ASCII code 77 ( M ) : 2 
+ASCII code 78 ( N ) : 1 
+ASCII code 79 ( O ) : 3 
+ASCII code 82 ( R ) : 5 
+ASCII code 83 ( S ) : 2 
+ASCII code 84 ( T ) : 2 
+ASCII code 87 ( W ) : 1 
+ASCII code 97 ( a ) : 140 
+ASCII code 98 ( b ) : 38 
+ASCII code 99 ( c ) : 36 
+ASCII code 100 ( d ) : 89 
+ASCII code 101 ( e ) : 232 
+ASCII code 102 ( f ) : 37 
+ASCII code 103 ( g ) : 34 
+ASCII code 104 ( h ) : 123 
+ASCII code 105 ( i ) : 114 
+ASCII code 106 ( j ) : 3 
+ASCII code 107 ( k ) : 24 
+ASCII code 108 ( l ) : 65 
+ASCII code 109 ( m ) : 24 
+ASCII code 110 ( n ) : 118 
+ASCII code 111 ( o ) : 154 
+ASCII code 112 ( p ) : 36 
+ASCII code 113 ( q ) : 1 
+ASCII code 114 ( r ) : 99 
+ASCII code 115 ( s ) : 111 
+ASCII code 116 ( t ) : 195 
+ASCII code 117 ( u ) : 47 
+ASCII code 118 ( v ) : 16 
+ASCII code 119 ( w ) : 57 
+ASCII code 120 ( x ) : 1 
+ASCII code 121 ( y ) : 27 
+root 39 (') : 1
