@@ -4,17 +4,20 @@
 
 int main()
 {
-	int num;
+	int num, c;
 	scanf("%d", &num);
 
 	char **str = new char*[num];
 
+	while((c=getchar())!='\n' && c!= EOF);
+
 	for(int i=0; i<num; i++)
 	{
 		str[i] = new char[20];
-		fgets(str[i], sizeof(str), stdin);
+//		fgets(str[i], 20, stdin);
+//		str[strlen(str[i]) - 1] = '\0';
 //		gets(str[i]);
-//		scanf("%[^\n]s", str[i]);
+		scanf(" %[^\n]s", str[i]);
 	}
 
 	for(int i=0; i<num; i++)
@@ -27,7 +30,7 @@ int main()
 				printf("%c", *(str[i] + k));
 			}
 		
-		printf("\n");
+//		printf("\n");
 	}
 
 	return 0;
